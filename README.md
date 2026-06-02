@@ -92,7 +92,7 @@ Add project filtering system
 Add animations using GSAP or Framer Motion
 👨‍💻 Author
 
-Your Name
+Drona Madhuri
 Full Stack Developer | AI Enthusiast | CSE Student
 
 ❤️ Acknowledgements
